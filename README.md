@@ -1,7 +1,7 @@
 # Noship
 
 [![Build](https://github.com/kafji/noship/workflows/Build/badge.svg)](https://github.com/kafji/noship/actions?query=workflow%3ABuild)
-
+[![crates.io](https://img.shields.io/crates/v/noship)](https://crates.io/crates/noship)
 [![Docs](https://docs.rs/noship/badge.svg)](https://docs.rs/noship)
 
 Noship is a macro that acts similar as [todo!](https://doc.rust-lang.org/std/macro.todo.html) but will throw a compilation error when compiled on release profile.
