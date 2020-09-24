@@ -43,6 +43,7 @@ error: release blocked
 ```yml
 # Cargo.toml
 
+[dependencies]
 noship = "0.0.*"
 ```
 
