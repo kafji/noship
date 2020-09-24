@@ -1,0 +1,15 @@
+[package]
+name = "noship"
+version = "0.0.1"
+authors = ["Kafji <k@kafji.net>"]
+edition = "2018"
+description = "Noship is a macro that acts similar as todo! but will throw a compilation error when compiled on release profile."
+repository = "https://github.com/kafji/noship"
+license = "MIT OR Apache-2.0"
+exclude = [".github/*"]
+
+[dependencies]
+
+[dev-dependencies]
+# compiletest_rs = "0.5"
+# trybuild = "1.0"
