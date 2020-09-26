@@ -1,6 +1,6 @@
 [package]
 name = "noship"
-version = "0.0.1"
+version = "0.1.0"
 authors = ["Kafji <k@kafji.net>"]
 edition = "2018"
 description = "Noship is a macro that acts similar as todo! but will throw a compilation error when compiled on release profile."
