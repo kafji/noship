@@ -46,7 +46,7 @@ error: release blocked
 # Cargo.toml
 
 [dependencies]
-noship = "0.0.*"
+noship = "0.1"
 ```
 
 <br>
