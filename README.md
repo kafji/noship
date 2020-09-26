@@ -1,4 +1,4 @@
-# Noship
+# [Noship](https://github.com/kafji/noship)
 
 [![Build](https://github.com/kafji/noship/workflows/Build/badge.svg)](https://github.com/kafji/noship/actions?query=workflow%3ABuild)
 [![crates.io](https://img.shields.io/crates/v/noship)](https://crates.io/crates/noship)
