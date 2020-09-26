@@ -4,7 +4,9 @@
 [![crates.io](https://img.shields.io/crates/v/noship)](https://crates.io/crates/noship)
 [![Docs](https://docs.rs/noship/badge.svg)](https://docs.rs/noship)
 
-Noship is a macro that acts similar as [todo!](https://doc.rust-lang.org/std/macro.todo.html) but will throw a compilation error when compiled on release profile.
+Noship is a macro that acts similar to [todo!](https://doc.rust-lang.org/std/macro.todo.html) but will throw a compilation error when compiled on release profile.
+
+Think of this as todo but it refuses to compile on release mode thus prohibit you to release incomplete code in case you forgot about it.
 
 ## Usage
 
