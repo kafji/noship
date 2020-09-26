@@ -16,7 +16,7 @@
 //!
 //! If you build the code example above on release profile,
 //! `cargo build --release`, the compiler will emit a compilation error.
-//! ```
+//! ```text
 //! error: release blocked
 //!  --> src/main.rs
 //!   |
