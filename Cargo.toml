@@ -11,5 +11,4 @@ exclude = [".github/*"]
 [dependencies]
 
 [dev-dependencies]
-# compiletest_rs = "0.5"
-# trybuild = "1.0"
+tempfile = "3.1"
