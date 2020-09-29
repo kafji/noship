@@ -6,6 +6,7 @@ edition = "2018"
 description = "Noship is a macro that acts similar as todo! but will throw a compilation error when compiled on release profile."
 repository = "https://github.com/kafji/noship"
 license = "MIT OR Apache-2.0"
+categories = ["rust-patterns"]
 exclude = [".github/*"]
 
 [dependencies]
