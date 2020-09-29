@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2020-09-26
+### Added
+- Add this package to rust patterns category.
+
 ## [0.1.0] - 2020-09-26
 ### Added
 - [Documentation.](https://docs.rs/noship/0.1.0)
@@ -17,5 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `noship!` macro.
 
 [Unreleased]: https://github.com/kafji/noship/tree/master
+[0.1.1]: https://github.com/kafji/noship/tree/v0.1.1
 [0.1.0]: https://github.com/kafji/noship/tree/v0.1.0
 [0.0.1]: https://github.com/kafji/noship/tree/v0.0.1
