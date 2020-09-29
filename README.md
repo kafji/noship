@@ -40,15 +40,6 @@ error: release blocked
   |
 ```
 
-## Installation
-
-```yml
-# Cargo.toml
-
-[dependencies]
-noship = "0.1"
-```
-
 <br>
 
 ## License & Contribution
