@@ -3,7 +3,7 @@
 [![Build](https://github.com/kafji/noship/workflows/Build/badge.svg)](https://github.com/kafji/noship/actions?query=workflow%3ABuild)
 [![crates.io](https://img.shields.io/crates/v/noship)](https://crates.io/crates/noship)
 [![Docs](https://docs.rs/noship/badge.svg)](https://docs.rs/noship)
-[![Changelog](https://img.shields.io/badge/Changelog-informational)](CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/Changelog-666)](CHANGELOG.md)
 
 Noship is a macro that acts similar to [todo!](https://doc.rust-lang.org/std/macro.todo.html) but will throw a compilation error when compiled on release profile.
 
@@ -27,10 +27,12 @@ fn main() {
 }
 
 ```
+
 ```
 $ cargo run
 going out...
 ```
+
 ```
 $ cargo run --release
 error: release blocked
@@ -47,10 +49,10 @@ error: release blocked
 
 Licensed under either of
 
- * Apache License, Version 2.0
-   ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license
-   ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+* Apache License, Version 2.0
+  ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+* MIT license
+  ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
 
